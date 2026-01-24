@@ -522,7 +522,7 @@ end
 	DropShadowHolder.BorderSizePixel = 0
 	DropShadowHolder.AnchorPoint = Vector2.new(0.5, 0.42)
 DropShadowHolder.Position = UDim2.new(0.5, 0, 0.5, 0)
-	DropShadowHolder.Size = UDim2.new(0, 450, 0, 320)
+	DropShadowHolder.Size = UDim2.new(0, 520, 0, 350)
 	DropShadowHolder.ZIndex = 0
 	DropShadowHolder.Name = "DropShadowHolder"
 	DropShadowHolder.Parent = Darkszzes
